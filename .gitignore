@@ -1,0 +1,4 @@
+#忽略项目根目录下的所有层级的node_moduels目录
+**/node_modules/
+
+*.log
